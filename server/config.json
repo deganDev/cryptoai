@@ -1,0 +1,13 @@
+{
+  "chains": [
+    {
+      "id": "ethereum",
+      "label": "Ethereum",
+      "explorer": "etherscan",
+      "chainId": 1
+    }
+  ],
+  "llm": {
+    "providers": ["openai", "gemini"]
+  }
+}
